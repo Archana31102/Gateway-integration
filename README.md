@@ -22,5 +22,3 @@ https://github.com/Archana31102/Gateway-integration
 
 https://lichenous-hail.000webhostapp.com/
 
-##***PROJECT FOR THE SPARKS FOUNDATION INTERNSHIP***##    
-#GRIPJANUARY2023  #TSFGRIP   #SPARKSFOUNDATION
